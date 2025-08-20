@@ -23,7 +23,7 @@ Experiments are conducted on the **Bank Account Fraud (BAF) dataset**, introduce
 ---
 
 ## **References**
-- Gorishniy, Y., Rubachev, I., Khrulkov, V., & Babenko, A. (2021). *Revisiting Deep Learning Models for Tabular Data*. Advances in Neural Information Processing Systems (NeurIPS). [Paper](https://proceedings.neurips.cc/paper/2021/hash/9d86d4541c1e02e4a30f430f94f4808d-Abstract.html)  
+- Gorishniy, Y., Rubachev, I., Khrulkov, V., & Babenko, A. (2021). *Revisiting Deep Learning Models for Tabular Data*. Advances in Neural Information Processing Systems (NeurIPS). [Paper](https://arxiv.org/abs/2106.11959)  
 - Jesus, S. G. P., Monteiro, P., & Bizarro, P. (2022). *Bank Account Fraud Dataset: Turning the Tables – Biased, Imbalanced, Dynamic Tabular Datasets*. NeurIPS 2022 Competition Track. [Kaggle](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022)  
 - Fang, W., Chen, Y., Ding, J., Chen, D., Yu, Z., Zhou, H., ... & Tian, Y. (2021). *SpikingJelly: An Open-Source Machine Learning Framework for Spiking Neural Network Research*.  
 
