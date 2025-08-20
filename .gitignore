@@ -27,7 +27,6 @@ ENV/
 Thumbs.db
 
 # Large data files (optional, adjust as needed)
-*.csv
 *.tsv
 *.parquet
 *.h5
