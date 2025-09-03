@@ -1,0 +1,43 @@
+{
+  "target": "fraud_bool",
+  "cat_cols": [
+    "payment_type",
+    "employment_status",
+    "housing_status",
+    "source",
+    "device_os",
+    "date_of_birth_distinct_emails_4w",
+    "email_is_free",
+    "bank_months_count",
+    "has_other_cards",
+    "foreign_request",
+    "keep_alive_session",
+    "device_distinct_emails_8w",
+    "device_fraud_count"
+  ],
+  "cont_cols": [
+    "income",
+    "name_email_similarity",
+    "prev_address_months_count",
+    "current_address_months_count",
+    "days_since_request",
+    "intended_balcon_amount",
+    "zip_count_4w",
+    "velocity_6h",
+    "velocity_24h",
+    "velocity_4w",
+    "bank_branch_count_8w",
+    "credit_risk_score",
+    "proposed_credit_limit",
+    "session_length_in_minutes"
+  ],
+  "fpr_cap": 0.05,
+  "threshold": 0.028858356177806854,
+  "d_token": 64,
+  "n_blocks": 2,
+  "n_heads": 8,
+  "ffn_hidden": 128,
+  "dropout": 0.047029427176625505,
+  "lr": 0.0015861275996062688,
+  "batch": 1024
+}
