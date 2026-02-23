@@ -13,6 +13,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv*/
 env/
 venv/
 ENV/
@@ -28,12 +29,16 @@ Thumbs.db
 
 # Large data files (optional, adjust as needed)
 *.tsv
+*.csv
 *.parquet
 *.h5
 *.gz
 *.zip
 *.tar
 *.tar.gz
+
+# Local datasets
+baf-datasets/
 
 # Model checkpoints (if you generate them)
 *.pt
